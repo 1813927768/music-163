@@ -83,7 +83,7 @@ class Artists(object):
     def execute_save(self, group_id, start, end):
         """
         执行保存
-        :param group_id: 
+        :param group_id: 歌手所在类别
         :param initial: 
         :return: 
         """
